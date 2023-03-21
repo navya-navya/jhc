@@ -1,2 +1,1 @@
 Learning git
-Undo chsnges in remote repostiory
